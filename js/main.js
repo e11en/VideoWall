@@ -1,6 +1,6 @@
 $(function() {
     //startGihpy();
-    startGif();
+    //startGif();
 });
 
 function startGihpy(){

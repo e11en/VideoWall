@@ -355,7 +355,9 @@ body {
 
 .gif-container img {
     width: 25%;
+    margin-right: -5px; 
 }
+
 .logo {
     width: 100%;
 }
