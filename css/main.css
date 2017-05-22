@@ -352,3 +352,10 @@ nav a:hover {
 body {
     background-color: black;
 }
+
+.gif-container img {
+    width: 25%;
+}
+.logo {
+    width: 100%;
+}
